@@ -93,6 +93,5 @@ ul {
 .experience {
   display: flex;
   flex-direction: column;
-  background-color: #fff;
   margin: 10px;
 }
